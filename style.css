@@ -1,0 +1,55 @@
+body {
+    background-color:#EAF6F6;
+  }
+
+
+  image:hover{
+    opacity: 0.5;
+    width: 10%;
+    height: 10%;
+
+  }
+
+.circular{
+ 
+  border-radius: 50%;
+}
+  hr{
+
+  border-style:  none ;
+  border-top-style: dotted ;
+  border-color: grey;
+  border-width:3px;
+  width : 3%;
+
+  }
+
+  th{text-align: center;}
+
+  td{text-align: center;}
+
+  .coffeimg{
+    width: 70%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+  }
+
+  h1 {
+    color: #0E8388;
+  }
+
+  h3{
+    color: #0E8388 ;
+  }
+
+  .w3-btn {
+    width:150px;
+  
+  }
+
+
+/*********** CLASS SELECTOR  **************/
+
